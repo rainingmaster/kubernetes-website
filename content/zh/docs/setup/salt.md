@@ -7,14 +7,6 @@ title: 使用 Salt 配置 Kubernetes 集群
 weight: 70
 content_template: templates/concept
 ---
-<!--
-reviewers:
-- davidopp
-title: Configuring Kubernetes with Salt
-weight: 70
-content_template: templates/concept
----
--->
 
 {{% capture overview %}}
 

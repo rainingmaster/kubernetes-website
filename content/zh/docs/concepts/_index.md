@@ -4,13 +4,14 @@ main_menu: true
 content_template: templates/concept
 weight: 40
 ---
-
-<!-- ---
+<!--
+---
 title: Concepts
 main_menu: true
 content_template: templates/concept
 weight: 40
---- -->
+---
+-->
 
 {{% capture overview %}}
 
